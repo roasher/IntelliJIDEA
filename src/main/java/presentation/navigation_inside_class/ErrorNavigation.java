@@ -1,8 +1,8 @@
-package presentation;
+package presentation.navigation_inside_class;
 
 import java.io.File;
 
-public class NavigationInsideClass {
+public class ErrorNavigation {
 
     public void method(String path) {
         if (path == null) {

@@ -1,0 +1,85 @@
+{
+  "date": "2018-10-24T14:47:32.196Z",
+  "value": {
+    "productId": "12345678",
+    "attributes": [
+      {
+        "name": "mediaNotValid",
+        "value": [
+          "https://res.cloudinary.com/lmru/image/upload/LMCode/nv_12345678.jpg",
+          "https://res.cloudinary.com/lmru/image/upload/LMCode/nv_12345678.jpg"
+        ]
+      },
+      {
+        "name": "mediaMainPhoto",
+        "value": [
+          "https://res.cloudinary.com/lmru/image/upload/LMCode/12345678.jpg"
+        ]
+      },
+      {
+        "name": "mediaInteriorPhoto",
+        "value": [
+          "https://res.cloudinary.com/lmru/image/upload/LMCode/12345678_i.jpg"
+        ]
+      },
+      {
+        "name": "media360Photo",
+        "value": [
+          "https://res.cloudinary.com/lmru/image/upload/LMCode/12345678_pv_1.jpg"
+        ]
+      },
+      {
+        "name": "mediaDrwPhoto",
+        "value": [
+          "https://res.cloudinary.com/lmru/image/upload/LMCode/12345678_drw.jpg"
+        ]
+      },
+      {
+        "name": "mediaSanviz",
+        "value": [
+          "https://res.cloudinary.com/lmru/image/upload/LMCode/12345678_sv.jpg"
+        ]
+      },
+      {
+        "name": "mediaVideo",
+        "value": [
+          "https://youtube.com/...g"
+        ]
+      },
+      {
+        "name": "mediaManual",
+        "value": [
+          "https://res.cloudinary.com/lmru/image/upload/LMCode/12345678_ins.pdf"
+        ]
+      },
+      {
+        "name": "mediaAudio",
+        "value": [
+          "https://res.cloudinary.com/lmru/image/upload/LMCode/12345678_audio.mp3"
+        ]
+      },
+      {
+        "name": "mediaOtherPhoto",
+        "value": [
+          "https://res.cloudinary.com/lmru/image/upload/LMCode/12345678_03.jpg"
+        ]
+      },
+      {
+        "name": "mediaOther",
+        "value": [
+          "https://res.cloudinary.com/lmru/image/upload/LMCode/12345678.unknown"
+        ]
+      },
+      {
+        "name": "mediaPdpPhoto",
+        "value": [
+          "https://res.cloudinary.com/lmru/image/upload/LMCode/12345678.jpg",
+          "https://res.cloudinary.com/lmru/image/upload/LMCode/12345678_i.jpg",
+          "https://res.cloudinary.com/lmru/image/upload/LMCode/12345678_pv_1.jpg",
+          "https://res.cloudinary.com/lmru/image/upload/LMCode/12345678_drw.jpg",
+          "https://res.cloudinary.com/lmru/image/upload/LMCode/12345678_03.jpg"
+        ]
+      }
+    ]
+  }
+}
