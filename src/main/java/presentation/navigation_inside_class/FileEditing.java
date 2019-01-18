@@ -65,7 +65,7 @@ public class FileEditing {
     }
 
     private void stringConcat() {
-        String str = "This is a very very very long line that I want to separate in order to read it easily";
+        String str = "This is a very very very very very very long line that I want to separate in order to read it easily";
     }
 
     private void injectionLanguages() {
