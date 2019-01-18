@@ -4,6 +4,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;
 import org.springframework.stereotype.Service;
+import presentation.navigation_inside_class.helper.ProductDbToProductEventConverter;
 import ru.yurkinsworkshop.tddexample.client.VozovozClient;
 import ru.yurkinsworkshop.tddexample.dto.ProductAvailability;
 import ru.yurkinsworkshop.tddexample.dto.Update;
@@ -12,6 +13,8 @@ import ru.yurkinsworkshop.tddexample.service.manualexclusion.ManualExclusionServ
 import ru.yurkinsworkshop.tddexample.service.notifier.AvailabilityNotifier;
 
 import java.io.BufferedReader;
+import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.regex.Pattern;
 
 @Service
@@ -61,7 +64,7 @@ public class FileEditing {
     }
 
     private void parametersTypeExample() {
-        // todo
+        new ProductDbToProductEventConverter();
     }
 
     private void stringConcat() {
